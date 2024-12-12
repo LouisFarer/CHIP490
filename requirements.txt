@@ -1,0 +1,5 @@
+rich
+jupyterlab
+requests
+matplotlib
+pandas
